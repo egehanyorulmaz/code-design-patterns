@@ -1,4 +1,5 @@
 ### Source: https://www.youtube.com/watch?v=tAuRQs_d9F8
+
 class Burger:
     def __init__(self):
         self.buns = None
