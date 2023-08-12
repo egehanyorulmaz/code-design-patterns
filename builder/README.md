@@ -45,11 +45,15 @@ Consider using the Builder pattern when:
 ## Resources
 
 - [burgers.py](burgers.py) (See the [Credits](#credits) section for author information)
+- [data_pipeline.py](data_pipeline.py)
+- [data_preprocessing.py](data_preprocessing.py)
 
 ## Credits
 
 This project makes use of code and resources from other authors. Full credit and appreciation go to the original creators:
 
 - **burgers.py:** Created by [NeetCode]("https://www.youtube.com/@NeetCode"), available at [Youtube](https://www.youtube.com/watch?v=tAuRQs_d9F8).
+- **data_pipelines.py:** Created by Egehan Yorulmaz.
+- **data_preprocessing.py:** Created by Egehan Yorulmaz.
 
 Please refer to the original sources for the applicable licenses and terms of use.
