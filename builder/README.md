@@ -28,7 +28,7 @@ However, it's essential to be aware of its limitations:
 
 ## Usage Example
 
-You can use the Builder pattern in the included `burgers.py` example.
+You can use the Builder pattern in the included in the examples below.
 
 ## Applicability
 
