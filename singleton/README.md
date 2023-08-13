@@ -51,8 +51,6 @@ Consider using the Singleton pattern when:
 ## Credits
 
 - **burgers.py:** Created by [NeetCode]("https://www.youtube.com/@NeetCode"), available at [Youtube](https://www.youtube.com/watch?v=tAuRQs_d9F8).
-- **database_connection_pool.py:** Created by Egehan Yorulmaz.
-- **caching.py:** Created by Egehan Yorulmaz.
 
 ## References
 * https://refactoring.guru/design-patterns/singleton
