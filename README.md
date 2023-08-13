@@ -16,8 +16,9 @@ Creational design patterns are concerned with the process of object creation, ma
 Behavioral design patterns are concerned with the responsibility and interaction between objects, promoting loose coupling and flexibility.
 
 ### Examples
-- **Observer Pattern:** Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated.
+- **Observer Pattern:** Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated. Commonly known as the Publish-Subscribe pattern.
 - **Strategy Pattern:** Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+- **State Pattern**: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
 
 ## Structural Patterns
 
