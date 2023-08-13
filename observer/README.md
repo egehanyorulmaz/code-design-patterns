@@ -35,6 +35,21 @@ Consider using the Observer pattern when:
 - You want to build a subscription mechanism where subscribers are notified of events or state changes.
 - Multiple objects are dependent on the state of a single object, and they need to be updated automatically.
 
+## ChatGPT-generated Use Cases
+| Case Name                      | Case Description                                                                                                                                                      |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Event Handling Systems         | Handling user-interface events, allowing different parts of the UI to respond to user actions.                                                                          |
+| Stock Market Monitoring        | Updating multiple display elements (e.g., charts, statistics) when stock data changes.                                                                                  |
+| Social Media Notifications     | Sending notifications to users when new content is posted by people they follow.                                                                                        |
+| Weather Monitoring Systems     | Notifying various weather gadgets when weather data updates are available.                                                                                              |
+| E-commerce Product Tracking    | Alerting users when the price of a tracked product drops or when the product is back in stock.                                                                           |
+| Progress Monitoring            | Updating different UI elements with the progress of a background task (e.g., file upload, data processing).                                                              |
+| News Subscription Service      | Distributing news updates to subscribers based on their preferences and subscriptions.                                                                                   |
+| Collaboration Tools            | Synchronizing changes in collaborative editing tools (e.g., shared documents, design boards) among different users.                                                       |
+| Sports Score Updates           | Sending live score updates to various devices and platforms subscribed to the sports event.                                                                               |
+| Real-Time Analytics Dashboards | Refreshing real-time analytics dashboards with updated data, reflecting changes as they occur.                                                                            |
+
+
 ## Related Patterns
 
 - **State Pattern**: Allows an object to change its behavior when its internal state changes.
