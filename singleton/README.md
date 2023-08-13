@@ -54,4 +54,8 @@ Consider using the Singleton pattern when:
 - **database_connection_pool.py:** Created by Egehan Yorulmaz.
 - **caching.py:** Created by Egehan Yorulmaz.
 
+## References
+* https://refactoring.guru/design-patterns/singleton
+
+
 This pattern makes use of concepts and patterns from various authors and methodologies. Full credit and appreciation go to those who have contributed to the development and understanding of this design pattern.

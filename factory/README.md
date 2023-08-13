@@ -57,6 +57,7 @@ This project makes use of code and resources from other authors. Full credit and
 - **rendering_engine.py:** Created by Egehan Yorulmaz.
 - **game_character.py** Created by Egehan Yorulmaz.
 
-
+## References
+* https://refactoring.guru/design-patterns/factory-method
 
 Please refer to the original sources for the applicable licenses and terms of use.

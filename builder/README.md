@@ -56,4 +56,9 @@ This project makes use of code and resources from other authors. Full credit and
 - **data_pipelines.py:** Created by Egehan Yorulmaz
 - **data_preprocessing.py:** Created by Egehan Yorulmaz
 
+## References
+* https://refactoring.guru/design-patterns/builder
+
+
+
 Please refer to the original sources for the applicable licenses and terms of use.
