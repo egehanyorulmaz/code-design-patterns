@@ -9,6 +9,7 @@ Creational design patterns are concerned with the process of object creation, ma
 ### Examples
 - **Singleton Pattern:** Ensures a class has only one instance and provides a global point to access it.
 - **Factory Pattern:** Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
+- **Builder Pattern:** Allows the construction of a complex object step by step. It's especially useful when an object needs to be created with many possible configurations.
 
 ## Behavioral Patterns
 
