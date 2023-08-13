@@ -51,15 +51,12 @@ Consider using the State pattern when:
 
 ## Resources
 
-- [traffic_light.py](traffic_light.py) (See the [Credits](#credits) section for author information)
-- [media_player.py](media_player.py)
+- [traffic_lights.py](traffic_lights.py)
 
 ## Credits
 
-This project makes use of code and resources from other authors. Full credit and appreciation go to the original creators:
+This project makes use of code and resources from other authors.
 
-- **traffic_light.py:** Created by [John Smith]("https://www.example.com/@JohnSmith"), available at [Github](https://github.com/JohnSmith/traffic-light).
-- **media_player.py:** Created by Jane Doe.
 
 ## References
 * https://refactoring.guru/design-patterns/state
