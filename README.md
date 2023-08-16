@@ -55,6 +55,7 @@ Design patterns offer valuable insights into designing flexible, clean, and main
 ## Resources
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124) by Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
+- [RefactoringGuru - Design Patterns](https://refactoring.guru/design-patterns)
 
 ## Credits
 
