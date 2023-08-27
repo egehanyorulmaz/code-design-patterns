@@ -27,4 +27,4 @@ Each TPA triggers the corresponding pipeline in Airflow.
 
 ### Insight
 
-Using the factory pattern enhances the readability and maintainability of the code. Additionally, there is neat code present before anything else. CAUTION: While it could be implemented more effectively using a different pattern, it is being used for educational purposes.
+Using the factory pattern enhances the readability and maintainability of the code. Additionally, there is neat code present before anything else. CAUTION: While it could be implemented more effectively using a different pattern, it is being used for educational purposes. Also code will not work if you try to run it.
