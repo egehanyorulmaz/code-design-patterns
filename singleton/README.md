@@ -2,10 +2,6 @@
 
 The Singleton design pattern is a creational design pattern that restricts the instantiation of a class to a single instance and provides a global point of access to that instance. Below, you'll find an explanation of how this pattern works, its advantages and disadvantages, and its relevance in various scenarios.
 
-## How It Works
-
-The Singleton pattern involves a single class responsible for the object creation process. This class includes methods and variables that ensure there's only one instance of itself throughout the application.
-
 ## Benefits
 
 Using the Singleton pattern offers several advantages:
